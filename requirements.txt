@@ -1,0 +1,10 @@
+mlflow
+torch
+pandas
+numpy
+seaborn
+scikit-learn
+keras
+tensorflow
+hyperopt
+urllib3==1.26.6
